@@ -1,0 +1,155 @@
+body{
+    background-image: url(/images/aboutback.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: center;
+    margin: 0.5cm;    
+}
+p2{
+    font-size: 2.4cm;
+    color: aliceblue;
+    position:absolute;
+    top: 40%;
+    font-family: 'Sofia Sans', sans-serif;
+
+}
+p1{
+    font-size: 0.7cm;
+    color: aliceblue;
+    margin-left: 0.5cm;
+    float: left;
+    margin-top:17px ;
+    margin-left:0.5cm ;
+    font-family: 'Sofia Sans', sans-serif;
+    position:fixed;
+    left: 2cm;
+}
+#box1{
+    font-size: 0.7cm;
+    color: aliceblue;
+    float:right;
+    margin-top: 17px;
+    font-family: 'Sofia Sans', sans-serif;
+    position:fixed;
+    right: 1cm;
+}   
+
+
+a:link{
+     color: rgb(255, 255, 255);
+    }
+a:visited{
+    color: aliceblue;
+}
+a:hover{
+    color: rgba(247, 247, 247, 0.658);
+}
+
+#text1{margin-right: 20px;}
+#text2{margin-right: 20px;}
+#text3{margin-right: 20px;}
+
+#head1{
+    font-size: 50px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: aliceblue;
+
+    position: absolute;
+    bottom: 74%;
+    left:7%;
+}
+#det1{
+    font-size: 25px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: rgb(250, 244, 237);
+    margin-right: 20px;
+
+    position: absolute;
+    top: 26%;
+    left: 7%;
+}
+
+#head2{
+    font-size: 50px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: aliceblue;
+
+    position: absolute;
+    bottom: 57%;
+    left:7%;
+}
+
+#det2{
+    font-size: 25px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: rgb(250, 244, 237);
+    margin-right:20px ;
+
+    position: absolute;
+    top: 43%;
+    left: 7%;
+}
+#head3{
+    font-size: 50px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: aliceblue;
+
+    position: absolute;
+    top: 418px;
+    left:7%;
+}
+#img1{
+    position: absolute;
+    right: 0%;
+    bottom: 22%;
+}
+#det3{
+    font-size: 25px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: aliceblue;
+    position:absolute;
+    top: 745px;
+    left: 7.8%;
+}
+
+#det4{
+    font-size: 25px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: aliceblue;
+    position:absolute;
+    top: 745px;
+    left: 46.5%;
+}
+#det5{
+    font-size: 22px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: aliceblue;
+    position:absolute;
+    top: 745px;
+    left: 79.4%;
+}
+#det6{
+    font-size: 22px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: aliceblue;
+    position:absolute;
+    top: 1050px;
+    left: 7.5%;
+}
+#det7{
+    font-size: 22px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: aliceblue;
+    position:absolute;
+    top: 1050px;
+    left: 44.5%;
+}
+#det8{
+    font-size: 22px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: aliceblue;
+    position:absolute;
+    top: 1050px;
+    left: 82%;
+}
